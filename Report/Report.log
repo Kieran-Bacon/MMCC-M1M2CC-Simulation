@@ -1,0 +1,353 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.11.4)  22 NOV 2017 03:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Report.tex
+(./Report.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 5 language(s) loaded.
+(./ecmm427_assignment.cls
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+Document Class: ecmm427_assignment 2017/10/04 custom class for ECMM427 submissi
+ons
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+))
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+) (./Report.aux)
+\openout1 = `Report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen113
+\scratchbox=\box28
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen114
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks19
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Report.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `Report.toc'.
+
+ [2]
+[1] [2] [3] [4] [5]
+Overfull \hbox (40.5278pt too wide) in paragraph at lines 326--326
+[]        \OT1/cmtt/m/n/10 incomplete = self.num_arrival - (len(self.events.dep
+arted) + len(self.events.blocked))[] 
+ []
+
+
+Overfull \hbox (45.77776pt too wide) in paragraph at lines 442--442
+[]\OT1/cmtt/m/n/10 def blockingProbability(num_servers: int, arrival_rate: floa
+t, departure_rate: float) -> float:[] 
+ []
+
+
+Overfull \hbox (66.77757pt too wide) in paragraph at lines 442--442
+[]    \OT1/cmtt/m/n/10 numerator = double(((arrival_rate/departure_rate)**num_s
+ervers)/double(factorial(num_servers)))[] 
+ []
+
+
+Overfull \hbox (87.77739pt too wide) in paragraph at lines 442--442
+[]    \OT1/cmtt/m/n/10 demoninator = sum( [((arrival_rate/departure_rate)**k)/f
+actorial(k) for k in range(1,num_servers)])[] 
+ []
+
+[6]
+Overfull \hbox (9.02808pt too wide) in paragraph at lines 442--442
+[]        \OT1/cmtt/m/n/10 pred_blocking.append(blockingProbability(servers, ar
+rival_rate, departure_rate))[] 
+ []
+
+
+Overfull \hbox (3.77812pt too wide) in paragraph at lines 442--442
+[]    \OT1/cmtt/m/n/10 print("\tSimulations variance from predictions:", sum(di
+fference)/len(difference) )[] 
+ []
+
+[7]
+Overfull \hbox (145.52689pt too wide) in paragraph at lines 442--442
+[]    \OT1/cmtt/m/n/10 plot([0.01, arrival_range[index]], [prob_blocking[index]
+]*2, "y--", label="Setup with probability under 0.01")[] 
+ []
+
+
+Overfull \hbox (19.52798pt too wide) in paragraph at lines 442--442
+[]    \OT1/cmtt/m/n/10 plot(arrival_range, pred_utilisation, "r--", label="Pred
+icted utilisation of servers")[] 
+ []
+
+<MMCCOutput.png, id=37, 591.20876pt x 241.90375pt>
+File: MMCCOutput.png Graphic file (type png)
+ <use MMCCOutput.png>
+Package pdftex.def Info: MMCCOutput.png used on input line 450.
+(pdftex.def)             Requested size: 384.28113pt x 157.23557pt.
+
+<MMCCBlockingProb.png, id=38, 462.528pt x 346.896pt>
+File: MMCCBlockingProb.png Graphic file (type png)
+
+<use MMCCBlockingProb.png>
+Package pdftex.def Info: MMCCBlockingProb.png used on input line 456.
+(pdftex.def)             Requested size: 300.63962pt x 225.47972pt.
+ [8 <./MMCCOutput.png>]
+<MMCCUtilisation.png, id=43, 462.528pt x 346.896pt>
+File: MMCCUtilisation.png Graphic file (type png)
+ <use MMCCUtilisation.png>
+Package pdftex.def Info: MMCCUtilisation.png used on input line 462.
+(pdftex.def)             Requested size: 300.63962pt x 225.47972pt.
+
+[9 <./MMCCBlockingProb.png> <./MMCCUtilisation.png>] [10]
+Overfull \hbox (30.0279pt too wide) in paragraph at lines 547--547
+[]        \OT1/cmtt/m/n/10 arrivals = [M1M2Event("handover", "arrival", 0), M1M
+2Event("newcall", "arrival", 0)][] 
+ []
+
+[11]
+Overfull \hbox (40.5278pt too wide) in paragraph at lines 637--637
+[]                \OT1/cmtt/m/n/10 self.events.depart(currentEvent)            
+     # Event recorded as departed.[] 
+ []
+
+
+Overfull \hbox (45.77776pt too wide) in paragraph at lines 637--637
+[]            \OT1/cmtt/m/n/10 (len(self.events.departed) + len(self.events.hbl
+ocked) + len(self.events.nblocked))[] 
+ []
+
+[12] [13] <M1+M2MCCInvestigation.png, id=62, 462.528pt x 346.896pt>
+File: M1+M2MCCInvestigation.png Graphic file (type png)
+
+<use M1+M2MCCInvestigation.png>
+Package pdftex.def Info: M1+M2MCCInvestigation.png used on input line 754.
+(pdftex.def)             Requested size: 300.63962pt x 225.47972pt.
+ [14]
+<M1+M2MCCOutput.png, id=66, 526.96875pt x 291.0875pt>
+File: M1+M2MCCOutput.png Graphic file (type png)
+ <use M1+M2MCCOutput.png>
+Package pdftex.def Info: M1+M2MCCOutput.png used on input line 762.
+(pdftex.def)             Requested size: 342.52562pt x 189.20462pt.
+
+<M1+M2MCCABP.png, id=67, 462.528pt x 346.896pt>
+File: M1+M2MCCABP.png Graphic file (type png)
+ <use M1+M2MCCABP.png>
+Package pdftex.def Info: M1+M2MCCABP.png used on input line 768.
+(pdftex.def)             Requested size: 300.63962pt x 225.47972pt.
+ [15 <./M1+M2MCCInvestigation.png> <./M1+M2MCCOutput.png>] [16 <./M1+M2MCCABP.p
+ng>]
+(./Report.aux) ) 
+Here is how much of TeX's memory you used:
+ 2141 strings out of 494910
+ 30710 string characters out of 6179836
+ 99392 words of memory out of 5000000
+ 5412 multiletter control sequences out of 15000+600000
+ 8063 words of font info for 29 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 38i,6n,23p,556b,245s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Report.pdf (18 pages, 278466 bytes).
+PDF statistics:
+ 105 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
